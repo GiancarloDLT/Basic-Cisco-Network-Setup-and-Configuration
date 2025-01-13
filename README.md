@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is designed to provide a foundational understanding of basic network configuration using Cisco devices. It demonstrates how to set up a simple network with multiple computers, switches, and a router. The goal is to configure devices with appropriate IP addresses, subnets, and default gateways to ensure proper communication between devices across different subnets. The significance of this project lies in its ability to showcase essential networking concepts such as IP addressing, routing, and network connectivity, laying the groundwork for more advanced networking and configuration tasks.
+This project is designed to provide a foundational understanding of basic network configuration using Cisco devices. It demonstrates how to set up a simple network with multiple computers, switches, and a router. The goal is to configure devices with appropriate IP addresses, subnets, and default gateways to ensure proper communication between devices across different subnets. The significance of this project lies in its ability to showcase essential networking concepts such as IP addressing, routing, and network connectivity, laying the groundwork for more advanced networking and configuration tasks. Additionally, I will be adding the project’s .pkt file to the repository, in case anyone wants to explore the configuration or use it as a reference for their own work.
 <br />
 
 
