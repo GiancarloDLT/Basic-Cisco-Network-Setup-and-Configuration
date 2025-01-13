@@ -69,7 +69,7 @@ This project is designed to provide a foundational understanding of basic networ
 <br />
 
 
-<b> At this point, we should have established connectivity between the two computer sets across both network subnets. To verify the network connectivity, click on PC0, go to the "Desktop" tab, and then select "Command Prompt." In the command prompt, try pinging either PC3 or PC4. As demonstrated in the screenshot, the ping is successful, confirming that communication between the two subnets is working as intended..<b/> 
+<b> At this point, we should have established connectivity between the two computer sets across both network subnets. To verify the network connectivity, click on PC0, go to the "Desktop" tab, and then select "Command Prompt." In the command prompt, try pinging either PC2 or PC3. As demonstrated in the screenshot, the ping is successful, confirming that communication between the two subnets is working as intended..<b/> 
 <br>
 <br>
   <img src="https://i.imgur.com/tQ35DAM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
